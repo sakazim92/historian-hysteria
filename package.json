@@ -1,0 +1,14 @@
+{
+    "name": "historian-hysteria",
+    "version": "1.0.0",
+    "description": "Advent calendar puzzle solver",
+    "scripts": {
+        "build": "tsc",
+        "start": "serve public -s",
+        "dev": "tsc --watch"
+    },
+    "devDependencies": {
+        "typescript": "^5.0.0",
+        "serve": "^14.2.0"
+    }
+}
